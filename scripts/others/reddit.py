@@ -157,7 +157,7 @@ ___
 
 * [Munipa](https://link.munpia.com/n/104753)
 * [Naver](http://naver.me/5eOtt9rN)
-* [ORV-Reader](https://orv.pages.dev/stories/cont/read/ch_{chapter_number}) (Unofficial Fan TL)
+* [ORV-Reader](https://orv.pages.dev/stories/cont/read/ch_{chapter_number}) (Low Quality MTL)
 
 ___
 
