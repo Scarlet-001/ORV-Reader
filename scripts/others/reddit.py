@@ -168,7 +168,7 @@ Chapter Comments: [ORV-Reader](https://orv.pages.dev/stories/cont/read/ch_{chapt
 ___
 
 - Please support the Authors by purchasing chapters on Munipa or Naver.
-- Contact u/jdcomplex and show him proof of purchase to get access to a superior TL of the side stories.
+- Contact u/jdcomplex and show her proof of purchase to get access to a superior TL of the side stories.
 - If for some reason you can't buy the chapters then consider writing Reviews for ORV on Goodreads and/or other places.
 - Spreading word about a Story is another good way to show your appreciation for the Authors.
 
