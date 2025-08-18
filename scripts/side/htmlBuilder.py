@@ -17,7 +17,7 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
             original_tag = match.group(0)
             return f"&lt;{original_tag[1:-1]}&gt;"
 
-        pattern = r'<(?!img\b|title\b|cover\b|br\b)(?=[^>]{1,})(?=[^>]*\w)[^>]*?>'
+        pattern = r'<(?!img\b|title\b|cover\b|br\b|a\b)(?=[^>]{1,})(?=[^>]*\w)[^>]*?>'
         textStr = re.sub(pattern, replace_match, textStr)
         text = textStr.split("\n")
 
@@ -136,6 +136,8 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
             html.pop()
 
     html.append("<br>")
+    html.append("<hr>")
+    html.append('<p class="orv_line">Dear Readers! Are you enjoying your read? Please consider donating to help keep the ORV-Reader running! Thank you for your support! (My rent is due TwT)</p> <ul><li><a href="../../../">Support ORV-Reader</a></li></ul>')
     html.append("<hr>")
     template = template.replace(r"{{CONTENT}}",str("\n".join(html)))
     template = template.replace(r"{{PATH}}",f"cont/{file}")
