@@ -381,7 +381,7 @@ button {
 /* ads */
 
 .evadav {
-    width: min(100%, 800px);
+    width: min(100%, 600px);
     height: auto;
     max-height: 200px;
     overflow: hidden;
