@@ -383,8 +383,9 @@ button {
 .evadav {
     width: min(100%, 600px);
     height: auto;
+    height: auto;
     max-height: 200px;
-    overflow: hidden;
+    overflow-x: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
