@@ -385,7 +385,7 @@ button {
     height: auto;
     height: auto;
     max-height: 200px;
-    overflow-x: hidden;
+    overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
