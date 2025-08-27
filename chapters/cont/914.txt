@@ -65,21 +65,21 @@ For someone like me, who still lacks the rank to face Mythical Constellations, t
 "If that's the case, I can't help you. If I fail, won't it make things even more difficult for the Management Bureau?"
 <@>[...I'll tell my superiors. You can receive light support if you want. If the likelihood of fallout is somewhat mitigated...]
 "A tip, like how to deal with them? Like, if there's a place they only hang out in."
-<@>[You'd know better than me. You've probably seen other recorders, haven't you?]
-I said, recalling the high-ranking recorders I'd met in the 'Fear Realm'.
+<@>[You'd know better than me. You've probably seen other Recorders, haven't you?]
+I said, recalling the high-ranking Recorders I'd met in the 'Fear Realm'.
 "At least their faces."
-"Hmm. I heard there's a subspace only recorders can access... Well, I'm not a recorder myself, so I don't know for sure."
-A subspace only recorders can access?
+<@>["Hmm. I heard there's a subspace only Recorders can access... Well, I'm not a Recorder myself, so I don't know for sure."]
+A subspace only Recorders can access?
 It was quite useful information, so I decided to memorize it.
 "Okay, I understand."
 <@>[So, you'll accept the request? I'll give you a sub-scenario?]
 "Honestly, the reward is a bit disappointing."
 <@>[This guy really is...]
 The reward was adequate, but since I was the one in control in this situation anyway, I decided to push it a little harder.
-"No, think about it. In this scenario, if I obtain a quasi-mythical or mythical tale, it's a gain, but if I obtain a historical tale, wouldn't it be a loss? Even if I raise the story level by one, it's only a legendary one."
-<@>[No, there's no way the story you obtain here will be historical. And a legendary story is good, too...]
-"Anyway, from my current perspective, there's no reason to clash with the Recorders. It's much more profitable to just sit back and relax before ascending, and that's why I've already prepared a reincarnation bus for that purpose."
-<@>[A reincarnation bus?]
+"No, think about it. In this scenario, if I obtain a Semi-Mythical or Mythical Tale, it's a gain, but if I obtain a Historical Tale, wouldn't it be a loss? Even if I raise the story level by one, it's only a Legendary one."
+<@>[No, there's no way the story you obtain here will be Historical. And a Legendary story is good, too...]
+"Anyway, from my current perspective, there's no reason to clash with the Recorders. It's much more profitable to just sit back and relax before ascending, and that's why I've already prepared a Reincarnator's bus for that purpose."
+<@>[A Reincarnator's bus?]
 "There is something like that."
 Of course, I had no intention of just sitting back and relaxing before ascending, but still, it's all about the way you throw your cards.
 I thought this would increase the reward by at least one point, but Bihyung's expression was surprisingly strange.
@@ -87,11 +87,11 @@ I thought this would increase the reward by at least one point, but Bihyung's ex
 "Grudge? What are you talking about?"
 <@>[Have you already forgotten what happened at the Recycling Center?]
 I pondered what happened at the Recycling Center.
-There, I confronted Lycaon, the fearsome recorder, but I didn't particularly harbor any resentment towards him. In fact, I felt a sense of gratitude towards him.
-<@>[What? You didn't know until now, didn't you? You know the powers of the recorders, right?]
+There, I confronted Lycaon, the fearsome Recorder, but I didn't particularly harbor any resentment towards him. In fact, I felt a sense of gratitude towards him.
+<@>[What? You didn't know until now, didn't you? You know the powers of the Recorders, right?]
 I briefly recalled my encounter with Cheon Inho and answered casually.
-"They're recorders, so they'd record."
-<!>[That's right. When recorders record the 'past,' it becomes 'history.' Then what if they record the 'future'?]
+"They're Recorders, so they'd record."
+<@>[That's right. When Recorders record the 'past,' it becomes 'history.' Then what if they record the 'future'?]
 Recording the future?
 <@>[Anyway, you can't remember what happened back then. You're truly…]
 My expression hardened involuntarily.
@@ -99,25 +99,25 @@ Future records.
 I knew better than anyone else what they meant.
 "Are you talking about [Fate]?"
 A mischievous smile appeared on Bihyung's face. On the Star Ladder, and at the Recycling Center, I was sentenced to [Fate].
-And in return for that fate, I lost my eldest brother, and I even became an outcast.
-A rage slowly began to boil deep within my heart. The image of my brother, repeatedly reduced to misery to fight that damned fate, was still vivid before my eyes.
+And in return for that Fate, I lost my Eldest Brother, and I even became an outcast.
+A rage slowly began to boil deep within my heart. The image of my brother, repeatedly reduced to misery to fight that damned Fate, was still vivid before my eyes.
 "The 'Fate' proclaimed by the Great Nebulae back then... does it have anything to do with the Recorders here?"
 <@>[Exactly.]
 Bihyung laughed, his lips parted.
-<!>[Now, in this 'New Murim District', all the 'Recorders' who once wrote your 'Fate' at the request of the Great Nebulae are gathered.]
+<@>[Now, in this 'New Murim District', all the 'Recorders' who once wrote your 'Fate' at the request of the Great Nebulae are gathered.]
 ***
 <!>[You have accepted the new 'Sub-Scenario.']
 After my private meeting with Bihyung, I stepped out of his cap.
 <!>[The Constellation, 'Bald Leader of Justice', asks where the hell you've been.]
 <!>[The Constellation, 'God of Wine and Ecstasy', whines that he too wants to see the Dokkaebi's cap.]
-<@>[The recorder who likes squinty characters says that squinty characters are indeed full of secrets.]
-The gazes of the Constellations and recorders poured in as soon as I left. It wasn't surprising, considering I'd caused such an incident at the auction house and then suddenly disappeared.
+<!>[The Recorder who likes squinty characters says that squinty characters are indeed full of secrets.]
+The gazes of the Constellations and Recorders poured in as soon as I left. It wasn't surprising, considering I'd caused such an incident at the Auction House and then suddenly disappeared.
 Bihyung's 'Dokkaebi Communication' rang in my ears.
 —Then please take care of me. Contact me if anything happens.
-"Bihyung, one last question."
+'Bihyung, one last question.'
 —What is it?
 'Where are my comrades now?'
-The information from the recorders and the lump was important, but this was the question I most wanted to ask.
+The information from the Recorders and the lump was important, but this was the question I most wanted to ask.
 —I can't tell you. It violates the probability.
 If the probability was limited even though he was merely revealing the location of incarnations, the reason was obvious.
 <&>「My colleagues have become beings of such great stature.」
@@ -142,10 +142,10 @@ Kang Ilhun, the name of Killer King.
 Lee Seyeon, Yerin's name.
 +
 8th place, part of the lower body of a highly damaged Natural Disaster-level Outer God, 8,100 D coins, Min Jiwon.
-9th place, 85 low-damage disaster-level Outer Gods, 7,800 D coins, Lee Dansu.
+9th place, 85 low-damage Disaster-level Outer Gods, 7,800 D coins, Lee Dansu.
 …
 +
-Even the names of the editor and the Dansu ahjussi.
+Even the names of the Editor and the Dansu ahjussi.
 There lay the history of my colleagues. The history of their struggles and survival in this horrific hell.
 The reason Bihyung showed this was clear. He was telling me:
 See with my own eyes what happened over the past eight years. And as a latecomer, I must diligently follow in their footsteps.
@@ -162,5 +162,5 @@ The submitter's name was filtered.
 I looked at the filtered name, and then again.
 —Get a grip. This city's final scenario will begin tonight.
 I nodded and said.
-"Don't worry."
+'Don't worry.'
 At least in this scenario, I won't be the one who needs to get my head straight.
