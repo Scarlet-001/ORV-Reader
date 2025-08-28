@@ -1,4 +1,4 @@
-<title>919 Episode 52 Light Sword Emperor (4)
+<title>919 Episode 52 Mad Sword Emperor (4)
 <#>【No…】
 The 'Unchanging One' stared at me for a moment, as if in a daze.
 <#>【Why?】
@@ -18,19 +18,19 @@ The man bit his lip, then opened his mouth again, taking note of the situation.
 <#>【This refers to cases where one becomes a 'Recorder' on one's own, without making a contract with the 'Hunchback'.】
 According to Bihyung, there are two ways to become a Recorder.
 One is to achieve the feat of a 'Recorder' on one's own.
-The other is to become a Recorder through a contract with the 'Hunchback'.
+The other is to become a Recorder through a contract with the 'Wenny Man'.
 When I nodded, the 'Unchangeable One' nodded in admiration.
 <#>【I see. I don't know how a True Recorder came to this city, but...】
 When he heard that I was a 'True Recorder,' he rolled his eyes again, prostrating himself before me and shouting,
 <#>【Please hire me!】
 It was a funny word.
 He wasn't just asking me to be his subordinate, he was asking me to 'hire him'?
-<#>【I will be your 'assistant recorder'.】
-<#>【Assistant recorder?】
-<#>【As you know, no matter how great a recorder is, there's a limit to what they can accomplish alone. Especially if you're trying to use a powerful 'record'...】
+<#>【I will be your 'Assistant Recorder'.】
+<#>【Assistant Recorder?】
+<#>【As you know, no matter how great a Recorder is, there's a limit to what they can accomplish alone. Especially if you're trying to use a powerful 'record'...】
 I got what he was saying. Even just the previous fight was a testament to that.
-The pressure felt different when facing one recorder than when facing three at once.
-Surely, the more numerous the recorders are, the more powerful their coercive power can be.
+The pressure felt different when facing one Recorder than when facing three at once.
+Surely, the more numerous the Recorders are, the more powerful their coercive power can be.
 <#>【I know. That's probably why you granted me [Fate].】
 The 'Unchanging One' took a deep breath.
 <#>【That... was really not my intention! I only interfered a little without even knowing who you were!】
@@ -46,18 +46,18 @@ I pretended to ponder for a moment, looking down at him.
 <#>【I know you're lying. You were just wasting time, begging for you life, and then you ran off here.】
 <#>【This time, it's really not happening! How could I dare deceive the Recorder, whose penmanship is far superior to mine? There's nowhere to run now!】
 I hadn't explicitly told him, but I'd been hearing his inner thoughts here and there.
-<&>「There aren't many opportunities to face a true recorder.」
-<&>「I don't know what level of recorder this person is, but he's skilled enough to easily take on at least three lower-level recorders.」
+<&>「There aren't many opportunities to face a true Recorder.」
+<&>「I don't know what level of Recorder this person is, but he's skilled enough to easily take on at least three lower-level Recorders.」
 <&>「There's only one way to survive.」
-As someone who's just become a 'recorder', it would be convenient to have a guide.
-<#>【In that case, prove it by signing a 'recording contract'.】
-<#>【A recording contract?】
+As someone who's just become a 'Recorder', it would be convenient to have a guide.
+<#>【In that case, prove it by signing a 'Recording Contract'.】
+<#>【A Recording Contract?】
 The guy's eyes widened, and he feigned indifference.
-<#>【I'm not an incarnation or a constellation, so I can't sign a 'recording contract' with you...】
-<#>【I'm sure there are similar contracts among recorders, too?】
+<#>【I'm not an incarnation or a Constellation, so I can't sign a 'recording contract' with you...】
+<#>【I'm sure there are similar contracts among Recorders, too?】
 The guy, who had been furtively licking his lips as if he knew that, cautiously confessed.
-<#>【If you're referring to the 'recording oath'...】
-After a moment, the contents of the 'recording oath' flashed before my eyes.
+<#>【If you're referring to the 'Recording Oath'...】
+After a moment, the contents of the 'Recording Oath' flashed before my eyes.
 +
 The Recorder of Fear, 'Unchanging One', swears the following:
 +
@@ -87,7 +87,7 @@ Perhaps these Recorders are also the ones narrating the contents of the Manageme
 +
 As the boy, though he'd been crying, finished writing the special terms, the oath was sealed in a bright ray of light.
 <!>[The Recording Oath is activated.]
-<@>[The Recorder of Fear, Unchanging One, has become your 'Assistant Recorder'.]
+<!>[The Recorder of Fear, Unchanging One, has become your 'Assistant Recorder'.]
 Indeed, my writing skills felt even more vivid than before. I can't quite put it into words, but it felt like I had a small, auxiliary battery.
 At this point, I'd say the safety net was in place.
 I slowly looked around the 'Recording Archives', asking.
@@ -99,7 +99,7 @@ Perhaps because he had become my 'Assistant Recorder', he answered with the ener
 So, to summarize, this is like a banquet hall for recorders.
 <#>【Actually, 'Authentic Recorders' rarely use this space. I heard that 'Authentic Recorders' exchange information in a special way related to the 'Final Wall'.】
 A special way related to the 'Final Wall'...
-<#>【However, low-level recorders like me have almost no 'interpretations', so if we want to share even a little, we have to use this place.】
+<#>【However, low-level Recorders like me have almost no 'interpretations', so if we want to share even a little, we have to use this place.】
 The 'Unchanging One' pointed to the 'doors' lined up at the front of the waiting room.
 <#>【These are the so-called 'Rooms of Narrative'. When you enter, you can interact with other recorders, and sometimes even plot or interfere with [Fate] to change the scenario.】
 The 'Unchangeable One' spoke somewhat cautiously when speaking about [Fate].
@@ -115,7 +115,7 @@ Actually, as I approached the 'Room of Narratives', a message appeared above me 
 …
 The 'Recycling Center' came to mind.
 Back then, I chose the maskless mask. There are more options here... After much deliberation, I decided to go with a more ordinary choice this time.
-<@>[You chose the 'Fox Mask'.]
+<!>[You chose the 'Fox Mask'.]
 When I put on the mask, a ray of light shone through the mask surrounding my face, changing color.
 But the expression on the face of the 'Unchangeable One''s face as he examined my mask was strange.
 <#>【Why?】
@@ -139,7 +139,7 @@ This 'Record Archive' is a subspace that doesn't even appear in the original 'Wa
 I wonder what being created this place.
 <#>【Who created this place?】
 <#>【The 'Record Archive' is a place created by the great Recorder, the 'Fox Who Commands the Heavens', out of consideration for the lowly, lower-level Recorders.】
-<#>【The Fox Who Commands the Heavens? Are you talking about Bicheonhori?】
+<#>【The Fox Who Commands the Sky? Are you talking about Bicheonhori?】
 <#>【Do you know him?】
 <#>【I do. Bicheonhori Wang Weilong.】
 So far, I've encountered Bicheonhori three times.
@@ -151,11 +151,11 @@ Since Bicheonhori had been so obsessed with 'recording' in every round of Yoo Jo
 But...
 <#>【Hey.】
 The 'Unchanging One' was acting a little strange. He looked at me with anxious eyes, hiding his trembling voice, and asked.
-<#>【Excuse me... Whose name is that king...?】
+<#>【Excuse me... Whose name is that...?】
 <#>【Wang Weilong?】
 <#>【Yes.】
 <#>【That's Bicheonhori's true name.】
-<#>【Bi, bi, Bicheon... The fox that commands the sky... Is...?】
+<#>【Bi-bi-Bicheon... The Fox That Commands The Sky... Is...?】
 <#>【Right.】
 <#>【Oooooh!】
 I hurried over and shook the guy's shoulder, but he was so unconscious he showed no signs of waking up. Judging by the bloody tears leaking from his eyes, it didn't seem to be an act.
@@ -166,7 +166,7 @@ Sentences poured out ceaselessly from the guy's head.
 I left the fallen guy alone and slowly stood up.
 If this were true...
 I had a new card to use in my dealings with the recorders.
-<@>[Would you like to enter the 'Room of Narration'?]
+<!>[Would you like to enter the 'Room of Narration'?]
 I checked the available rooms in the waiting room one by one.
 The name of the largest room was as follows:
 —Room of Fate [43/100]
@@ -182,6 +182,6 @@ and judging by the number 3, there were three visitors. Interestingly, there wer
 # Scenario 80
 It seemed to be a place to exchange information about something like this.
 # New Murim District
-# Light Sword Emperor
+# Mad Sword Emperor
 After checking the last hashtag, I pressed the enter button without hesitation.
 # The Oldest Dream
