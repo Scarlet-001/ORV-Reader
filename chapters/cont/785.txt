@@ -135,9 +135,9 @@ I know that neither of us wants to hurt the other. Nevertheless, this confrontat
 <!>[The Constellations of the Nebula <Asgard> watch your battle.]
 <!>[The Constellations of the Nebula <Vedas> watch your battle.]
 The [White and Blue Sword] embedded in each other's swordsmanship tore through the air with a sharp sound, and nothing was cut.
-<!>[The constellation 'The One Who Brought Ten Lambs' watches your battle.]
-<!>[The constellation 'Abyssal Black Flame Dragon' watches your battle.]
-<!>[The constellation 'Reclining Dragon' watches your battle.]
+<!>[The Constellation 'The One Who Brought Ten Lambs' watches your battle.]
+<!>[The Constellation 'Abyssal Black Flame Dragon' watches your battle.]
+<!>[The Constellation 'Reclining Dragon' watches your battle.]
 <!>[Many constellations watch your battle!]
 However, my heart, which had not been cut, ached.
 "If you do not control the stories, you will live as the stories wish. Have you forgotten?"
