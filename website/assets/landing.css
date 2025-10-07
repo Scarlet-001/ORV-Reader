@@ -2,7 +2,7 @@ html {
     background-image: url("./background-stars.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: hidden;
+    background-attachment: fixed;
     background-color: rgb(24, 24, 24);
 }
 
@@ -14,7 +14,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: rgba(0, 0, 0, 0.551);
-    height: 100dvh;
+    min-height: 100dvh;
     width: 100dvw;
     display: flex;
     align-items: center;
