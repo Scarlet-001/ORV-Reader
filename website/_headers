@@ -8,7 +8,7 @@
   Cache-Control: public, max-age=3600
 
 /stories/*
-  Cache-Control: public, max-age=10800
+  Cache-Control: public, max-age=3600
 
 /assets/*
   Cache-Control: public, max-age=10800
