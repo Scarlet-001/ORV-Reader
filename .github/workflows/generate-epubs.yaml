@@ -57,12 +57,26 @@ jobs:
           # 3. Side Stories
           Compress-Archive -Path .\epub\side\* -DestinationPath .\artifacts\"Omniscient Reader's Viewpoint [Side Stories].epub" -Force
 
-      # 5. Upload the generated EPUBs as workflow artifacts
-      - name: Upload EPUB Artifacts
+      # 5. MODIFIED: Upload each generated EPUB as a separate workflow artifact
+      - name: Upload Main Story EPUB Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: orv-epubs-build-${{ steps.set_date.outputs.build_date }}
-          path: .\artifacts\*.epub
+          name: orv-main-story-build-${{ steps.set_date.outputs.build_date }}
+          path: .\artifacts\Omniscient Reader's Viewpoint [Main Story].epub
+          retention-days: 2 # Keep artifacts for 2 days
+
+      - name: Upload Sequel EPUB Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: orv-sequel-build-${{ steps.set_date.outputs.build_date }}
+          path: .\artifacts\Omniscient Reader's Viewpoint [Sequel].epub
+          retention-days: 2 # Keep artifacts for 2 days
+
+      - name: Upload Side Stories EPUB Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: orv-side-stories-build-${{ steps.set_date.outputs.build_date }}
+          path: .\artifacts\Omniscient Reader's Viewpoint [Side Stories].epub
           retention-days: 2 # Keep artifacts for 2 days
 
       # 6. Create a GitHub Release and attach the EPUB files as binaries
@@ -72,7 +86,7 @@ jobs:
         with:
           # Use the date and run number for a unique tag
           tag_name: EPUB-BUILD-${{ steps.set_date.outputs.build_date }}-${{ github.run_number }}
-          name: Daily EPUB Release ${{ steps.set_date.outputs.build_date }}
+          name: EPUB Release ${{ steps.set_date.outputs.build_date }}
           body: |
             Automated EPUB build of Omniscient Reader's Viewpoint, generated on ${{ steps.set_date.outputs.build_date }}.
             
@@ -80,7 +94,7 @@ jobs:
             - Main Story
             - Sequel
             - Side Stories
-          # Attach all files from the artifacts directory to the release
-          files: .\artifacts\*.epub
+          # The 'files' line correctly uses a wildcard to attach all 3 files from the folder
+          files: .\artifacts\*.epub 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
