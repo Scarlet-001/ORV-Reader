@@ -72,6 +72,14 @@ jobs:
           path: .\artifacts\Omniscient Reader's Viewpoint [Sequel].epub
           retention-days: 2 # Keep artifacts for 2 days
 
+      - name: Debug - List Files
+        shell: pwsh
+        run: |
+            Write-Host "Contents of the source directory (.\epub\side\):"
+            Get-ChildItem -Path .\epub\side\ -Force
+            Write-Host "Contents of the artifacts directory (.\artifacts\):"
+            Get-ChildItem -Path .\artifacts\ -Force
+
       - name: Upload Side Stories EPUB Artifact
         uses: actions/upload-artifact@v4
         with:
