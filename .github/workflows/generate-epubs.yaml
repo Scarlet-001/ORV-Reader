@@ -90,6 +90,6 @@ jobs:
             - orv_sequel.epub (Sequel)
             - orv_side.epub (Side Stories)
           # This wildcard correctly attaches the three new files (orv_main.epub, etc.)
-          files: .\artifacts\*.epub 
+          files: ./artifacts/*.epub 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
