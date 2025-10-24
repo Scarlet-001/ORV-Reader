@@ -1,4 +1,4 @@
-name: EPUB Generation and Release (Simplified Paths)
+name: EPUB Generation and Release
 
 # 1. Trigger the workflow manually or on a daily schedule
 on:
