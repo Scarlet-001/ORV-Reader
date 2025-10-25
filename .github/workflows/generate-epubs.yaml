@@ -1,10 +1,11 @@
 name: EPUB Generation and Release
 
-# 1. Trigger the workflow manually or on a daily schedule
+# 1. Trigger the workflow manually or on a weekly schedule
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * 0'
+    
 
 jobs:
   build_and_release:
