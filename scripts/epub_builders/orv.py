@@ -129,7 +129,7 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
             if line.startswith("<title>"):
                 if lines[line_index + 1].startswith("<cover>"):
                     cover_img = re.findall(r"\[(.*?)\]", lines[line_index + 1])
-                    xhtml += f"""<img style="display:block;margin:auto;height:100%;width:auto;page-break-after: always; break-after: page;" alt="cover" src="images/{urlparse.quote(cover_img[0])}"/>\n"""
+                    xhtml += f"""<img style="display:block;margin:auto;height:100%;width:auto;page-break-after: always; break-after: page;" alt="cover" src="images/{urlparse.quote(cover_img[0])}"/><br/><br/>\n"""
 
                 xhtml += '<img style="display:block;margin:auto" alt="icon" src="stigma.png"/>'
                 xhtml += f'<h2 style="text-align:center;">{line[7:].strip()}</h2>\n'
