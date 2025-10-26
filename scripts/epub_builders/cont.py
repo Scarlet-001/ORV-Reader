@@ -172,7 +172,7 @@ for file_index, file in enumerate(os.listdir("chapters/cont")):
                 isWindowTitle = False
 
             else:
-                xhtml += f"<p>{line.strip().replace("<","&lt").replace(">","&gt")}</p>\n"
+                xhtml += f"<p>{line.strip().replace("<","&lt ").replace(">"," &gt")}</p>\n"
         xhtml += f"""<hr/><p style="text-align: center;"><a href="https://orv.pages.dev/stories/cont/read/ch_{file_index+553}#comments" target="_blank" style="font-weight: bold; text-decoration: none;">[CLICK TO READ CHAPTER COMMENTS]</a></p>\n"""
         xhtml += (
             "<hr/><section epub:type='endnotes' role='doc-endnotes'>\n"
