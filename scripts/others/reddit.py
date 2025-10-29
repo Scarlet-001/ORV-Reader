@@ -157,8 +157,8 @@ ___
 
 * [Munipa](https://link.munpia.com/n/104753)
 * [Naver](http://naver.me/5eOtt9rN)
-* [ORV-Reader](https://orv.pages.dev/stories/cont/read/ch_{chapter_number}) (Low Quality MTL)
-
+* [ORV-Reader](https://orv.pages.dev/stories/cont/read/ch_{chapter_number}) (edited MTL)
+* [Download EPUB](https://orv.pages.dev/download) (edited MTL)
 ___
 
 All Discussions: [Github](https://github.com/Bittu5134/ORV-Reader/discussions) \\
