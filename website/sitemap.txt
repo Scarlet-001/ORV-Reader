@@ -3,6 +3,8 @@ https://orv.pages.dev/stories
 https://orv.pages.dev/stories/orv
 https://orv.pages.dev/stories/cont
 https://orv.pages.dev/stories/side
+https://orv.pages.dev/donate
+https://orv.pages.dev/download
 https://orv.pages.dev/stories/orv/read/ch_1
 https://orv.pages.dev/stories/orv/read/ch_2
 https://orv.pages.dev/stories/orv/read/ch_3
