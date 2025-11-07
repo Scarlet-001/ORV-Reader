@@ -10,12 +10,31 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
     file_index = int(file.replace(".txt",""))-1
     with open(f"./chapters/side/{file}", "r", encoding="utf-8") as f:
         textStr = f.read()
+        # Temporarily replace special markers to preserve them during & escaping
+        markers = {
+            '<!>': '___MARKER_SYSTEM___',
+            '<@>': '___MARKER_CONSTELLATION___',
+            '<&>': '___MARKER_QUOTE___',
+            '<#>': '___MARKER_OUTERGOD___',
+            '<?>': '___MARKER_NOTICE___',
+        }
+        for marker, placeholder in markers.items():
+            textStr = textStr.replace(marker, placeholder)
+        
+        # Escape ampersand characters
+        textStr = textStr.replace("&", "&amp;")
+        
         def replace_match(match):
             original_tag = match.group(0)
             return f"&lt;{original_tag[1:-1]}&gt;"
 
         pattern = r'<(?!img\b|title\b|cover\b|br\b)(?=[^>]{1,})(?=[^>]*\w)[^>]*?>'
         textStr = re.sub(pattern, replace_match, textStr)
+        
+        # Restore the special markers
+        for marker, placeholder in markers.items():
+            textStr = textStr.replace(placeholder, marker)
+        
         text = textStr.split("\n")
 
     with open("website/stories/side/read/template.html","r",encoding="utf-8") as f:

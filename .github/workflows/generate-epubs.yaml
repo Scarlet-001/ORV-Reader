@@ -11,10 +11,14 @@ jobs:
   build_and_release:
     # 2. Run on a Windows runner
     runs-on: windows-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -39,6 +43,16 @@ jobs:
           python .\scripts\epub_builders\orv.py
           python .\scripts\epub_builders\cont.py
           python .\scripts\epub_builders\side.py
+
+      # Commit and push generated EPUB content files to repository
+      - name: Commit EPUB content files to repository
+        shell: pwsh
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add epub/
+          git diff --staged --quiet || git commit -m "Update EPUB content files - ${{ steps.set_date.outputs.build_date }}"
+          git push
 
       # 4. Create EPUB Archives (Zipping) - UPDATED FILENAMES
       - name: Create EPUB Archives (Zipping)
