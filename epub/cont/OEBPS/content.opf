@@ -6,7 +6,7 @@
     <dc:contributor opf:role="trl">Community Translators</dc:contributor> 
     <dc:language>en</dc:language>
     <dc:publisher>ORV-Reader Project</dc:publisher> 
-    <dc:date>10-24-2025</dc:date>
+    <dc:date>11-07-2025</dc:date>
     <dc:description>The story follows Lee Hakhyun, the author of ORV from another worldline. He transmigrates into "Ways of Survival" with other ORV readers. However, the scenarios have been messed up due to the participation of ORV readers and KimCom.</dc:description>
     <meta name="cover" content="cover-img"/>
     <dc:subject>Korean Novel</dc:subject>
@@ -410,6 +410,12 @@
 <item href="ch_385.xhtml" id="385" media-type="application/xhtml+xml"/>
 <item href="ch_386.xhtml" id="386" media-type="application/xhtml+xml"/>
 <item href="ch_387.xhtml" id="387" media-type="application/xhtml+xml"/>
+<item href="ch_388.xhtml" id="388" media-type="application/xhtml+xml"/>
+<item href="ch_389.xhtml" id="389" media-type="application/xhtml+xml"/>
+<item href="ch_390.xhtml" id="390" media-type="application/xhtml+xml"/>
+<item href="ch_391.xhtml" id="391" media-type="application/xhtml+xml"/>
+<item href="ch_392.xhtml" id="392" media-type="application/xhtml+xml"/>
+<item href="ch_393.xhtml" id="393" media-type="application/xhtml+xml"/>
 <item id="img_0" href="002%20-%20In%20short%2C%20my%20life%20was%20like%20this%20Kim%20Dokja%2C%2028%20years%20old%2C%20single.jpg" media-type="image/jpeg"/>
 <item id="img_1" href="002%20-%20Yoo%20Sangah%20smiled%20brightly.jpg" media-type="image/jpeg"/>
 <item id="img_2" href="006%20-%20I%20wiped%20at%20the%20blood%20on%20my%20cheeks.%20The%20bloodwasn%27t%20erased.%20It%20turned%20out%20to%20be%20blood%20on%20the%20window.jpg" media-type="image/jpeg"/>
@@ -579,38 +585,35 @@
 <item id="img_166" href="550%20-%20I%27ve%20completely%20forgotten%20about%20it.%20There%20was%20something%20like%20that%2C%20wasn%27t%20there.jpg" media-type="image/jpeg"/>
 <item id="img_167" href="551%20-%20While%20thinking%20about%20those%20sentences%2C%20Han%20Sooyoung%20grinned%20like%20an%20idiot.jpg" media-type="image/jpeg"/>
 <item id="img_168" href="551%20-%20Yoo%20Joonghyuk%20slowly%20closed%20his%20eyes%2C%20before%20opening%20them%20again.jpg" media-type="image/jpeg"/>
-<item id="img_169" href="799%20-%20Jeahwan%20-clothed%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
-<item id="img_170" href="830%20-%20Karlton%20-%20Silver%20Binding%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
-<item id="img_171" href="844%20-%20Manri%20Shintong%20Heo%20Poong%20-%20Murim%20Dumpling%20Master%20Chief%20-%20The%20World%20After%20the%20Fall.jpg" media-type="image/jpeg"/>
-<item id="img_172" href="Cover%20001%20-%20Episodes%2000-35.jpg" media-type="image/jpeg"/>
-<item id="img_173" href="Cover%20190%20-%20Episodes%2036-53.jpg" media-type="image/jpeg"/>
-<item id="img_174" href="Cover%20286%20-%20Episodes%2054-70.jpg" media-type="image/jpeg"/>
-<item id="img_175" href="Cover%20374%20-%20Episodes%2071-98.jpg" media-type="image/jpeg"/>
-<item id="img_176" href="Cover%20409.jpg" media-type="image/jpeg"/>
-<item id="img_177" href="Cover%20455.jpg" media-type="image/jpeg"/>
-<item id="img_178" href="Cover%20516%20-%20Episodes%2099-Epilogue%201.jpg" media-type="image/jpeg"/>
-<item id="img_179" href="Cover%20526.jpg" media-type="image/jpeg"/>
-<item id="img_180" href="Cover%20532.jpg" media-type="image/jpeg"/>
-<item id="img_181" href="Cover%20Part%201%20-%20002%20-%20Vol%201%20-%20Episodes%2001-06.jpg" media-type="image/jpeg"/>
-<item id="img_182" href="Cover%20Part%201%20-%20026%20-%20Vol%202%20-%20Episodes%2006-10.jpg" media-type="image/jpeg"/>
-<item id="img_183" href="Cover%20Part%201%20-%20048%20-%20Vol%203%20-%20Episodes%2011-15.jpg" media-type="image/jpeg"/>
-<item id="img_184" href="Cover%20Part%201%20-%20073%20-%20Vol%204%20-%20Episodes%2015-19.jpg" media-type="image/jpeg"/>
-<item id="img_185" href="Cover%20Part%201%20-%20097%20-%20Vol%205%20-%20Episodes%2019-23.jpg" media-type="image/jpeg"/>
-<item id="img_186" href="Cover%20Part%201%20-%20121%20-%20Vol%206%20-%20Episodes%2024-28.jpg" media-type="image/jpeg"/>
-<item id="img_187" href="Cover%20Part%201%20-%20143%20-%20Vol%207%20-%20Episodes%2028-32.jpg" media-type="image/jpeg"/>
-<item id="img_188" href="Cover%20Part%201%20-%20166%20-%20Vol%208%20-%20Episodes%2032-35.jpg" media-type="image/jpeg"/>
-<item id="img_189" href="Cover%20Part%202%20-%20189%20-%20Vol%201%20-%20Episodes%2036-41.jpg" media-type="image/jpeg"/>
-<item id="img_190" href="Cover%20Part%202%20-%20221%20-%20Vol%202%20-%20Episodes%2042-47.jpg" media-type="image/jpeg"/>
-<item id="img_191" href="Cover%20Part%202%20-%20255%20-%20Vol%203%20-%20Episodes%2048-53.jpg" media-type="image/jpeg"/>
-<item id="img_192" href="Cover%20Part%203%20-%20285%20-%20Vol%201%20-%20Episodes%2054-59.jpg" media-type="image/jpeg"/>
-<item id="img_193" href="Cover%20Part%203%20-%20316%20-%20Vol%202%20-%20Episodes%2060-64.jpg" media-type="image/jpeg"/>
-<item id="img_194" href="Cover%20Part%203%20-%20345%20-%20Vol%203%20-%20Episodes%2065-70.jpg" media-type="image/jpeg"/>
-<item id="img_195" href="Cover%20Part%204%20-%20373%20-%20Vol%201%20-%20Episodes%2071-75.jpg" media-type="image/jpeg"/>
-<item id="img_196" href="Cover%20Part%204%20-%20399%20-%20Vol%202%20-%20Episodes%2076-80.jpg" media-type="image/jpeg"/>
-<item id="img_197" href="Cover%20Part%204%20-%20428%20-%20Vol%203%20-%20Episodes%2081-86.jpg" media-type="image/jpeg"/>
-<item id="img_198" href="Cover%20Part%204%20-%20459%20-%20Vol%204%20-%20Episodes%2087-92.jpg" media-type="image/jpeg"/>
-<item id="img_199" href="Cover%20Part%205%20-%20487%20-%20Vol%201%20-%20Episodes%2093-99.jpg" media-type="image/jpeg"/>
-<item id="img_200" href="Cover%20Part%205%20-%20517%20-%20Vol%202%20-%20Epilogue%201-5.jpg" media-type="image/jpeg"/>
+<item id="img_169" href="Cover%20001%20-%20Episodes%2000-35.jpg" media-type="image/jpeg"/>
+<item id="img_170" href="Cover%20190%20-%20Episodes%2036-53.jpg" media-type="image/jpeg"/>
+<item id="img_171" href="Cover%20286%20-%20Episodes%2054-70.jpg" media-type="image/jpeg"/>
+<item id="img_172" href="Cover%20374%20-%20Episodes%2071-98.jpg" media-type="image/jpeg"/>
+<item id="img_173" href="Cover%20409.jpg" media-type="image/jpeg"/>
+<item id="img_174" href="Cover%20455.jpg" media-type="image/jpeg"/>
+<item id="img_175" href="Cover%20516%20-%20Episodes%2099-Epilogue%201.jpg" media-type="image/jpeg"/>
+<item id="img_176" href="Cover%20526.jpg" media-type="image/jpeg"/>
+<item id="img_177" href="Cover%20532.jpg" media-type="image/jpeg"/>
+<item id="img_178" href="Cover%20Part%201%20-%20002%20-%20Vol%201%20-%20Episodes%2001-06.jpg" media-type="image/jpeg"/>
+<item id="img_179" href="Cover%20Part%201%20-%20026%20-%20Vol%202%20-%20Episodes%2006-10.jpg" media-type="image/jpeg"/>
+<item id="img_180" href="Cover%20Part%201%20-%20048%20-%20Vol%203%20-%20Episodes%2011-15.jpg" media-type="image/jpeg"/>
+<item id="img_181" href="Cover%20Part%201%20-%20073%20-%20Vol%204%20-%20Episodes%2015-19.jpg" media-type="image/jpeg"/>
+<item id="img_182" href="Cover%20Part%201%20-%20097%20-%20Vol%205%20-%20Episodes%2019-23.jpg" media-type="image/jpeg"/>
+<item id="img_183" href="Cover%20Part%201%20-%20121%20-%20Vol%206%20-%20Episodes%2024-28.jpg" media-type="image/jpeg"/>
+<item id="img_184" href="Cover%20Part%201%20-%20143%20-%20Vol%207%20-%20Episodes%2028-32.jpg" media-type="image/jpeg"/>
+<item id="img_185" href="Cover%20Part%201%20-%20166%20-%20Vol%208%20-%20Episodes%2032-35.jpg" media-type="image/jpeg"/>
+<item id="img_186" href="Cover%20Part%202%20-%20189%20-%20Vol%201%20-%20Episodes%2036-41.jpg" media-type="image/jpeg"/>
+<item id="img_187" href="Cover%20Part%202%20-%20221%20-%20Vol%202%20-%20Episodes%2042-47.jpg" media-type="image/jpeg"/>
+<item id="img_188" href="Cover%20Part%202%20-%20255%20-%20Vol%203%20-%20Episodes%2048-53.jpg" media-type="image/jpeg"/>
+<item id="img_189" href="Cover%20Part%203%20-%20285%20-%20Vol%201%20-%20Episodes%2054-59.jpg" media-type="image/jpeg"/>
+<item id="img_190" href="Cover%20Part%203%20-%20316%20-%20Vol%202%20-%20Episodes%2060-64.jpg" media-type="image/jpeg"/>
+<item id="img_191" href="Cover%20Part%203%20-%20345%20-%20Vol%203%20-%20Episodes%2065-70.jpg" media-type="image/jpeg"/>
+<item id="img_192" href="Cover%20Part%204%20-%20373%20-%20Vol%201%20-%20Episodes%2071-75.jpg" media-type="image/jpeg"/>
+<item id="img_193" href="Cover%20Part%204%20-%20399%20-%20Vol%202%20-%20Episodes%2076-80.jpg" media-type="image/jpeg"/>
+<item id="img_194" href="Cover%20Part%204%20-%20428%20-%20Vol%203%20-%20Episodes%2081-86.jpg" media-type="image/jpeg"/>
+<item id="img_195" href="Cover%20Part%204%20-%20459%20-%20Vol%204%20-%20Episodes%2087-92.jpg" media-type="image/jpeg"/>
+<item id="img_196" href="Cover%20Part%205%20-%20487%20-%20Vol%201%20-%20Episodes%2093-99.jpg" media-type="image/jpeg"/>
+<item id="img_197" href="Cover%20Part%205%20-%20517%20-%20Vol%202%20-%20Epilogue%201-5.jpg" media-type="image/jpeg"/>
 </manifest><spine toc="ncx">
 <itemref idref="intro"/><itemref idref="toc"/>
 <itemref idref="1"/>
@@ -1000,6 +1003,12 @@
 <itemref idref="385"/>
 <itemref idref="386"/>
 <itemref idref="387"/>
+<itemref idref="388"/>
+<itemref idref="389"/>
+<itemref idref="390"/>
+<itemref idref="391"/>
+<itemref idref="392"/>
+<itemref idref="393"/>
 <itemref idref="afterword"/>
 </spine>
   <guide>
