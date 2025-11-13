@@ -95,7 +95,6 @@ The content is sourced from fan translations and online communities, including:
 
 [![Fandom Wiki](https://img.shields.io/badge/WIKI-%23032133?style=for-the-badge&logo=fandom&logoColor=fff)](https://omniscient-readers-viewpoint.fandom.com/wiki/Omniscient_Reader%E2%80%99s_Viewpoint_Wiki)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/OmniscientReader)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/orv)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://www.reddit.com/r/OmniscientReader/comments/17el055/linktree_to_orv_epub_with_illustrations_side)
 
 ---
@@ -108,4 +107,4 @@ You can find the license for this project [here](./LICENSE.md)
 
 **Please note:** I do not own the rights to the original novel. All translations available on this page are fan translations sourced from the public Internet. The sources for these translations are provided under the ["Sources"](#sources) heading.
 
-For any inquiries, you can reach me via email at <a href="mailto: ssr7a5134@gmail.com">ssr7a5134@gmail.com</a> or my [Discord Server](https://discord.gg/CZdNvKaNNr}
+For any inquiries, you can reach me via email at <a href="mailto: ssr7a5134@gmail.com">ssr7a5134@gmail.com</a> or my [Discord Server](https://discord.gg/CZdNvKaNNr)
