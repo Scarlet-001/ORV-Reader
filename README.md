@@ -108,4 +108,4 @@ You can find the license for this project [here](./LICENSE.md)
 
 **Please note:** I do not own the rights to the original novel. All translations available on this page are fan translations sourced from the public Internet. The sources for these translations are provided under the ["Sources"](#sources) heading.
 
-For any inquiries, you can reach me via email at <a href="mailto: ssr7a5134@gmail.com">ssr7a5134@gmail.com</a>
+For any inquiries, you can reach me via email at <a href="mailto: ssr7a5134@gmail.com">ssr7a5134@gmail.com</a> or my [Discord Server](https://discord.gg/CZdNvKaNNr}
