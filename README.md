@@ -13,6 +13,14 @@
 
 ---
 
+## Contributing 
+
+For how to contribute to this project follow the given links.
+- [Contribution Guide](./CONTRIBUTING.md)
+- [Formatting Guide](./formatting.md).
+
+---
+
 ## About ORV 
 
 **Omniscient Reader's Viewpoint (ORV)** is a captivating web novel following Kim Dokja, a reader who becomes part of the world he once read about. The series includes:
@@ -58,14 +66,6 @@ Learn more about the authors **Sing Shong** and the illustrator, **BlackBox**:
 ### Upcoming Anime
 - [AniList Entry](https://anilist.co/manga/119257/Jeonjijeok-Dokja-Sijeom)
 - [MyAnimeList Entry](https://myanimelist.net/manga/132214/Omniscient_Readers_Viewpoint)
-
----
-
-## Contributing 
-
-For how to contribute to this project follow the given links.
-- [Contribution Guide](./CONTRIBUTING.md)
-- [Formatting Guide](./formatting.md).
 
 ---
 
