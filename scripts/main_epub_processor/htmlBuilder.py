@@ -200,8 +200,8 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
         elif current_chapter >= last_chapter - 4:  # Last 5 chapters
             banner_html = donation_banner
         else:  # Random for middle chapters
-            banner_html = random.choice([donation_banner, discord_banner, ''])
-        
+            banner_html = random.choices([donation_banner, discord_banner, ''], weights=[5,5,0],k=1)[0]
+
         template = template.replace(r"{{BANNER}}", banner_html)
 
         template = template.replace(r"{{TITLE}}", "")
