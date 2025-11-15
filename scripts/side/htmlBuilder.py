@@ -192,8 +192,8 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
     # Determine which banner to show
     if current_chapter <= first_chapter + 4:  # First 5 chapters
         banner_html = discord_banner
-    elif current_chapter >= last_chapter - 4:  # Last 5 chapters
-        banner_html = donation_banner
+    # elif current_chapter >= last_chapter - 4:  # Last 5 chapters
+    #     banner_html = donation_banner
     else:  # Random for middle chapters
         banner_html = random.choices([donation_banner, discord_banner, ''], weights=[5,5,0],k=1)[0]
     
