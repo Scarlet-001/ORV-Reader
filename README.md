@@ -17,7 +17,9 @@
 
 For how to contribute to this project follow the given links.
 - [Contribution Guide](./CONTRIBUTING.md)
-- [Formatting Guide](./formatting.md).
+- [Formatting Guide](./formatting.md)
+
+Ask any queries on the [Discord Server](https://discord.gg/CZdNvKaNNr)
 
 ---
 
