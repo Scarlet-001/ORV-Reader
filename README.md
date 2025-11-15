@@ -5,6 +5,7 @@
  **ORV-Reader** is a fan-made project hosting unofficial fan translations of the popular webnovel ***Omniscient Reader's Viewpoint!***
 
 🌐: [https://orv.pages.dev](https://orv.pages.dev) \
+📥: [Download EPUBs](https://orv.pages.dev/download.html) \
 ⭐: Dont forget to star this repository 
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Bittu5134/ORV-Reader/deploy-website.yml?branch=main&style=flat-square)
@@ -48,9 +49,20 @@ Learn more about the authors **Sing Shong** and the illustrator, **BlackBox**:
    * ➕ And much more!
 * **High-Quality Illustrations**: Hundreds of illustrations made by **BlackBox**-nim have been added to the site.
 * **Reader Settings**: Customize your reading experience with adjustable font size, line height, and more.
+* **EPUB Downloads**: Download the complete stories as EPUB files for offline reading on your favorite e-reader or device.
 * **Automatic Updates**: New side stories are automatically added every day to the site (kinda?)
 * **Good Translations**: The website is built with the latest fan translations and can be edited by the community. That includes you, too!
 * **Privacy**: The website does NOT have any kind of trackers and/or ads. Nobody likes those kinds of things.
+
+---
+
+## Download EPUBs
+
+You can download the complete stories as EPUB files for offline reading:
+
+📚 **[Download Page](https://orv.pages.dev/download.html)** - Get all EPUBs in one place
+
+All EPUBs include high-quality illustrations and are compatible with most e-readers and reading apps.
 
 ---
 
