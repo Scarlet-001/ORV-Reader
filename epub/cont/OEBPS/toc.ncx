@@ -401,4 +401,6 @@
 <navPoint id="391" playOrder="392"><navLabel><text>944 Episode 55 Giant Tree (10)</text></navLabel><content src="ch_392.xhtml"/></navPoint>
 <navPoint id="392" playOrder="393"><navLabel><text>945 Episode 55 Giant Tree (11)</text></navLabel><content src="ch_393.xhtml"/></navPoint>
 <navPoint id="393" playOrder="394"><navLabel><text>946 Episode 55 Giant Tree (12)</text></navLabel><content src="ch_394.xhtml"/></navPoint>
+<navPoint id="394" playOrder="395"><navLabel><text>947 Episode 55 Giant Tree (13)</text></navLabel><content src="ch_395.xhtml"/></navPoint>
+<navPoint id="395" playOrder="396"><navLabel><text>948 Episode 55 Giant Tree (14)</text></navLabel><content src="ch_396.xhtml"/></navPoint>
 </navMap></ncx>
