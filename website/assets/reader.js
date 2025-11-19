@@ -195,7 +195,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (lineHeight > 100) { lineHeight = 100; }
         if (lineHeight < 1) { lineHeight = 1; }
-        lineHeight = lineHeight / 20
+        lineHeight = lineHeight / 30.625
         root.style.setProperty('--line-space', lineHeight + "rem")
 
         window.theme = theme;
