@@ -116,12 +116,14 @@ function loadSettingsFromLocalStorage() {
             document.getElementById('set-font').value = settings.font;
         }
         if (settings.fontSize) {
+            if (settings.fontSize == 52) { settings.fontSize = 51; }
             document.getElementById('set-font-size').value = settings.fontSize;
         }
         if (settings.fontWeight) {
             document.getElementById('set-font-weight').value = settings.fontWeight;
         }
         if (settings.lineHeight) {
+            if (settings.lineHeight == 32) { settings.lineHeight = 49; } // legacy code
             document.getElementById('set-line-height').value = settings.lineHeight;
         }
         if (settings.richTextToggle !== undefined) {
@@ -190,13 +192,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (fontSize < 30) { fontSize = 30; }
         if (fontSize > 100) { fontSize = 100; }
-        if (fontSize == 52) { fontSize = 51; } // legacy code
         fontSize = fontSize / 3;
         fontSize = fontSize + "px";
 
         if (lineHeight > 100) { lineHeight = 100; }
         if (lineHeight < 1) { lineHeight = 1; }
-        if (lineHeight == 32) { lineHeight = 49; } // legacy code
         lineHeight = lineHeight / 30.625
         root.style.setProperty('--line-space', lineHeight + "rem")
 
