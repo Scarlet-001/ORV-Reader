@@ -404,4 +404,6 @@
 <navPoint id="394" playOrder="395"><navLabel><text>947 Episode 55 Giant Tree (13)</text></navLabel><content src="ch_395.xhtml"/></navPoint>
 <navPoint id="395" playOrder="396"><navLabel><text>948 Episode 55 Giant Tree (14)</text></navLabel><content src="ch_396.xhtml"/></navPoint>
 <navPoint id="396" playOrder="397"><navLabel><text>949 Episode 56 Myth (1)</text></navLabel><content src="ch_397.xhtml"/></navPoint>
+<navPoint id="397" playOrder="398"><navLabel><text>950 Episode 56 Myth (2)</text></navLabel><content src="ch_398.xhtml"/></navPoint>
+<navPoint id="398" playOrder="399"><navLabel><text>951 Episode 56 Myth (3)</text></navLabel><content src="ch_399.xhtml"/></navPoint>
 </navMap></ncx>
