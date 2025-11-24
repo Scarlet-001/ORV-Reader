@@ -91,7 +91,7 @@ If you enjoy ORV-Reader and would like to support the project, you can donate us
 
 ---
 
-## Star History
+## Star History & Contributor List
 
 <a href="https://www.star-history.com/#Bittu5134/ORV-Reader&Date">
  <picture>
@@ -99,6 +99,10 @@ If you enjoy ORV-Reader and would like to support the project, you can donate us
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Bittu5134/ORV-Reader&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Bittu5134/ORV-Reader&type=Date" />
  </picture>
+</a>
+
+<a href="https://github.com/Bittu5134/ORV-Reader/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Bittu5134/ORV-Reader" />
 </a>
 
 ---
