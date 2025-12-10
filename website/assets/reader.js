@@ -105,7 +105,7 @@ function classChangeTheme(elementClass, elemetTheme) {
 
 function loadSettingsFromLocalStorage() {
     try {
-        let settings = JSON.parse(localStorage.getItem('settings'));
+        let settings = JSON.parse(localStorage.getItem('settings1'));
 
         if (!settings) return null;
 
@@ -336,7 +336,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
         try {
-            localStorage.setItem('settings', JSON.stringify(settings));
+            localStorage.setItem('settings1', JSON.stringify(settings));
             console.log('Settings saved to local storage.');
         } catch (error) {
             console.error('Error saving settings to local storage:', error);
