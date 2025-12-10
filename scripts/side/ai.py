@@ -35,7 +35,7 @@ with open("scripts/side/ai.py", "r", encoding="utf-8") as f:
     csv = f.read()
 
 try:
-    chat = client.chats.create(model="gemini-2.0-flash")
+    chat = client.chats.create(model="gemma-3-27b")
     response = chat.send_message(
         "i will send you input sentences and you have to respond with true and false, where true means its a system message and false means its a character dialouge, i will give you a csv encoded text for reffernce, only respond in true or false, the text from next line is for tuning only aslo ignore newlines, everything that i will send you is a sentence from a book, DO not reply with anything other than true or false! \n"
         + csv
@@ -45,7 +45,7 @@ except Exception as initial_error:
     print(f"Error sending initial context: {initial_error}")
     client = get_new_client()
     try:
-        chat = client.chats.create(model="gemini-2.0-flash")
+        chat = client.chats.create(model="gemma-3-27b")
         response = chat.send_message(
             "i will send you input sentences and you have to respond with true and false, where true means its a system message and false means its a character dialouge, i will give you a csv encoded text for reffernce, only respond in true or false, the text from next line is for tuning only aslo ignore newlines, everything that i will send you is a sentence from a book, DO not reply with anything other than true or false! \n"
             + csv
@@ -104,7 +104,7 @@ while True:
             f.write(str(e) + "\n--------------------------------------\n")
         client = get_new_client()
         try:
-            chat = client.chats.create(model="gemini-2.0-flash")
+            chat = client.chats.create(model="gemma-3-27b")
             response = chat.send_message(
                 "i will send you input sentences and you have to respond with true and false, where true means its a system message and false means its a character dialouge, i will give you a csv encoded text for reffernce, only respond in true or false, the text from next line is for tuning only aslo ignore newlines, everything that i will send you is a sentence from a book, DO not reply with anything other than true or false! \n"
                 + csv
