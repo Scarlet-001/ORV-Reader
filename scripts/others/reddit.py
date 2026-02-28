@@ -155,7 +155,7 @@ ___
 
 **Read the chapter**
 
-* [Munipa](https://link.munpia.com/n/104753)
+* [Munpia](https://link.munpia.com/n/104753)
 * [Naver](http://naver.me/5eOtt9rN)
 * [ORV-Reader](https://orv.pages.dev/stories/cont/read/ch_{chapter_number}) (edited MTL)
 * [Download EPUB](https://orv.pages.dev/download) (edited MTL)
