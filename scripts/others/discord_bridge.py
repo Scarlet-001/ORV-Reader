@@ -8,7 +8,38 @@ from better_profanity import profanity
 
 def main():
     # 1. Setup & Load Data
-    profanity.load_censor_words()
+
+    # --- ONLINE PROFANITY LIST SETUP ---
+    PROFANITY_URL = "https://raw.githubusercontent.com/dsojevic/profanity-list/refs/heads/main/en.txt"
+
+    # Words to EXCLUDE from the online list (allow them)
+    WHITELIST = {"word1", "word2", "context_specific_term"}
+
+    # Words to ALWAYS trigger the ping (your custom triggers)
+    CUSTOM_TRIGGERS = ["spoiler", "spoil", "bittu", "realnpc"]
+
+    try:
+        # Fetch external list
+        response = requests.get(PROFANITY_URL, timeout=10)
+        if response.status_code == 200:
+            external_words = response.text.splitlines()
+            # Filter: Keep words NOT in whitelist
+            filtered_list = [
+                w.strip().lower()
+                for w in external_words
+                if w.strip().lower() not in WHITELIST
+            ]
+            # Combine with custom triggers
+            final_list = list(set(filtered_list + CUSTOM_TRIGGERS))
+            profanity.add_censor_words(final_list)
+        else:
+            print(
+                f"Warning: Failed to fetch remote list (Status: {response.status_code}). Using defaults."
+            )
+            profanity.add_censor_words(CUSTOM_TRIGGERS)
+    except Exception as e:
+        print(f"Warning: Could not load remote list ({e}). Using custom triggers only.")
+        profanity.add_censor_words(CUSTOM_TRIGGERS)
 
     # --- PRODUCTION CONFIG ---
     try:
@@ -37,8 +68,6 @@ def main():
     # ==============================================================================
     # PATH A: GitHub Sanitization (Fixes broken tags in the GitHub Web UI)
     # ==============================================================================
-
-    import re
 
     # Allowlist of real HTML tags
     ALLOWED_TAGS = {
@@ -98,21 +127,20 @@ def main():
     # PATH B: Discord Formatting (Prepares clean text for the Embed)
     # ==============================================================================
 
-    # 1. Remove invisible HTML comments discord_body = re.sub(r'', '', raw_body, flags=re.DOTALL)
+    # 1. Remove invisible HTML comments
+    discord_body = re.sub(r"<!--.*?-->", "", raw_body, flags=re.DOTALL)
 
     # 2. Fix Quotes: ">Text" -> "> Text"
-    discord_body = re.sub(r"^>(?=[^\s])", "> ", raw_body, flags=re.MULTILINE)
+    discord_body = re.sub(r"^>(?=[^\s])", "> ", discord_body, flags=re.MULTILINE)
 
     # 3. Fix Headers: "# Header" -> "**Header**"
     discord_body = re.sub(r"^#+\s+(.*?)$", r"**\1**", discord_body, flags=re.MULTILINE)
 
     # 4. Check Triggers (Spoilers / Profanity)
-    triggers = ["spoiler", "spoil", "bittu", "realnpc"]
+    # Note: triggers list is now handled inside profanity lib via add_censor_words
     ping_str = None
 
-    if any(t in discord_body.lower() for t in triggers) or profanity.contains_profanity(
-        discord_body
-    ):
+    if profanity.contains_profanity(discord_body):
         ping_str = "||<@818428347151024199>||"
 
     # 5. Extract Image (Markdown or HTML)
