@@ -7,39 +7,27 @@ from better_profanity import profanity
 
 
 def main():
-    # 1. Setup & Load Data
-
     # --- ONLINE PROFANITY LIST SETUP ---
     PROFANITY_URL = "https://raw.githubusercontent.com/dsojevic/profanity-list/refs/heads/main/en.txt"
-
-    # Words to EXCLUDE from the online list (allow them)
-    WHITELIST = {"word1", "word2", "context_specific_term"}
-
-    # Words to ALWAYS trigger the ping (your custom triggers)
+    WHITELIST = {"word1", "word2"}
     CUSTOM_TRIGGERS = ["spoiler", "spoil", "bittu", "realnpc"]
 
     try:
-        # Fetch external list
         response = requests.get(PROFANITY_URL, timeout=10)
         if response.status_code == 200:
             external_words = response.text.splitlines()
-            # Filter: Keep words NOT in whitelist
             filtered_list = [
                 w.strip().lower()
                 for w in external_words
                 if w.strip().lower() not in WHITELIST
             ]
-            # Combine with custom triggers
             final_list = list(set(filtered_list + CUSTOM_TRIGGERS))
-            profanity.add_censor_words(final_list)
+
+            profanity.load_censor_words(final_list)
         else:
-            print(
-                f"Warning: Failed to fetch remote list (Status: {response.status_code}). Using defaults."
-            )
-            profanity.add_censor_words(CUSTOM_TRIGGERS)
+            profanity.load_censor_words(CUSTOM_TRIGGERS)
     except Exception as e:
-        print(f"Warning: Could not load remote list ({e}). Using custom triggers only.")
-        profanity.add_censor_words(CUSTOM_TRIGGERS)
+        profanity.load_censor_words(CUSTOM_TRIGGERS)
 
     # --- PRODUCTION CONFIG ---
     try:
