@@ -138,7 +138,6 @@ def main():
     image_url = img_match.group(1) or img_match.group(2) if img_match else None
 
     # 6. Build Embed
-    # Note: We define the footer HERE so we can modify it safely later
     embed = {
         "title": discussion["title"],
         "url": comment["html_url"],
@@ -155,9 +154,6 @@ def main():
     if image_url:
         embed["image"] = {"url": image_url}
 
-    # Update Footer if Reply
-    if comment.get("parent_id"):
-        embed["footer"]["text"] += " • Replying to a thread"
 
     # 7. Send to Discord
     payload = {"embeds": [embed]}
