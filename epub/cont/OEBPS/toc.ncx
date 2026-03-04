@@ -441,5 +441,6 @@
 <navPoint id="431" playOrder="432"><navLabel><text>984 Episode 59 What Kind of Ending (5)</text></navLabel><content src="ch_432.xhtml"/></navPoint>
 <navPoint id="432" playOrder="433"><navLabel><text>985 Episode 59 What Kind of Ending (6)</text></navLabel><content src="ch_433.xhtml"/></navPoint>
 <navPoint id="433" playOrder="434"><navLabel><text>986 Episode 59 What Kind of Ending (7)</text></navLabel><content src="ch_434.xhtml"/></navPoint>
-<navPoint id="434" playOrder="435"><navLabel><text>987 Episode 59 What Ending (8)</text></navLabel><content src="ch_435.xhtml"/></navPoint>
+<navPoint id="434" playOrder="435"><navLabel><text>987 Episode 59 What Kind of Ending (8)</text></navLabel><content src="ch_435.xhtml"/></navPoint>
+<navPoint id="435" playOrder="436"><navLabel><text>988 Episode 59 What Kind of Ending (9)</text></navLabel><content src="ch_436.xhtml"/></navPoint>
 </navMap></ncx>
