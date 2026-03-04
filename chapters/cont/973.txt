@@ -61,11 +61,13 @@ His appearance was met with a chorus of indignant roars.
 <@>[Summoning us to a battlefield without warning? Is this the Bureau's idea of management?]
 <@>[This is a violation of our status!]
 This wasn't some low-level scenario; it was Scenario #85. It was a late-stage arena filled with Narrative-grade beings. Their sense of entitlement was absolute.
-<@>[The constellation, 'Impatient Swamp Predator', indignantly points a finger at the Administration Bureau!]
-<@>[The constellation, 'Gourmet of the Quiet Isle', laments the Administration Bureau's tyranny!]
-<@>[The constellation, 'Master of the White Castle', surveys the battlefield with displeasure.]
+<!>[The constellation, 'Impatient Swamp Predator', indignantly points a finger at the Administration Bureau!]
+<!>[The constellation, 'Gourmet of the Quiet Isle', laments the Administration Bureau's tyranny!]
+<!>[The constellation, 'Master of the White Castle', surveys the battlefield with displeasure.]
 The modifiers were familiar—members of the Gourmet Association. They, too, had been lounging here instead of fighting.
-<@>[I understand your grievances,] Baram continued, ignoring the outcry. [However, constellations, we cannot allow this festival to continue indefinitely.]
+<@>[I understand your grievances.] 
+Baram continued, ignoring the outcry. 
+<@>[However, constellations, we cannot allow this festival to continue indefinitely.]
 He surveyed the field with a calm, piercing gaze.
 <@>[Is 'Valhalla Hall' truly what you desire? Is it the non-existence you wished for—waiting for others to clear the path while you exhaust your remaining starlight in a cage?]
 The resentment subsided for a heartbeat. His words had struck a nerve.
@@ -130,7 +132,7 @@ An arrow pierced his shoulder before he could finish.
 Five or six constellations swarmed from the shadows like lynxes. In an instant, the Great-grade constellation was torn apart, his story disintegrating before he could utter a final word. Their leader bit into the severed arm of the dead star and spat it out.
 <@>[Intermediate? Worthless. Find me an 'Advanced' or higher.]
 I recognized him immediately.
-<@>[The constellation, 'Black Wolf Reaper', lets out a ferocious howl!]
+<!>[The constellation, 'Black Wolf Reaper', lets out a ferocious howl!]
 The Black Wolf Reaper—Anubis, the Narrative-grade constellation from <Papyrus>. I quickly ducked behind cover, checking my status.
 <!>[You are currently a 'Special Warrior'.]
 My value had skyrocketed after the previous battle. If I were caught, I’d be the ultimate prize.
