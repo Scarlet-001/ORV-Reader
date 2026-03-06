@@ -51,13 +51,13 @@ Selena Kim nodded and relayed something to me through telepathy. For a moment, I
 Anna Croft's telepathy came.
 —Isn't that why you've been talking so much...
 I gave a faint nod to the clever Anna Kim.
-<!>[The constellation, 'Thunderbird', is wary of you.]
-<!>[The constellation, 'General of Banara', wants to uncover your scheme.]
-<!>[The constellation, 'Progenitor of Humanity', is curious about what you're up to.]
+<!>[The Constellation, 'Thunderbird', is wary of you.]
+<!>[The Constellation, 'General of Banara', wants to uncover your scheme.]
+<!>[The Constellation, 'Progenitor of Humanity', is curious about what you're up to.]
 They're pretending not to hear me, but... There's no way those sinister bastards wouldn't listen to me. An incarnation that's undeniably intimidating from the moment they meet is babbling such nonsense. What constellation wouldn't be interested?
 —Was your goal from the beginning to buy time to find the 'bush'?
 I deliberately opened my mouth to keep the constellations' attention on me. That way, Selena Kim's search foxes could be active.
-<&>「The missing bush. A 'disaster-level fear' that's said to randomly appear during every match. The incarnations who go missing through this bush have never returned to the stadium or the 'Valhalla Hall'.」
+<&>「The missing bush. A 'Disaster-level Fear' that's said to randomly appear during every match. The incarnations who go missing through this bush have never returned to the stadium or the 'Valhalla Hall'.」
 I had just received information about the various bushes hidden in this area from the 'Unchanging One'.
 I briefly glanced over the bushes' appearance conditions and then slowly turned around.
 There were the incarnations of our team, still trembling in fear.
@@ -85,7 +85,7 @@ As if trying to give meaning to my empty cheers, the incarnations began to run a
 However, the unfortunate truth was this:
 <!>[The constellation, 'Thunderbird,' laughs derisively.]
 This <Star Stream> was particularly cruel to the desperate struggles of the incarnations.
-<!>[I never said I'd let them go, though.]
+<@>[I never said I'd let them go, though.]
 A bolt of lightning struck from the air, and the Thunderbird's lightning struck right in front of Selena Kim's nose.
 "Kwaaaaaaa!"
 The incarnations running ahead screamed and fell to the ground.
@@ -112,9 +112,9 @@ But over there, there were three constellations that reached the late-stage narr
 Even the rest of the team were at least mid-stage narrative-grade, so it seemed they wouldn't lose their composure.
 <@>[I don't know which one, but it wouldn't be bad for entertainment.]
 The constellations each began to radiate aura, as if ready to easily trample on me.
-<!>[The constellation, 'Thunderbird', releases its aura!]
-<!>[The constellation, 'General of Banara', releases its aura!]
-<!>[The constellation, 'Progenitor of Humanity', releases its aura!]
+<!>[The Constellation, 'Thunderbird', releases its aura!]
+<!>[The Constellation, 'General of Banara', releases its aura!]
+<!>[The Constellation, 'Progenitor of Humanity', releases its aura!]
 Anna Croft hurriedly intervened in the heated atmosphere of the battlefield.
 "Constellations! Everyone, please stop! Have you forgotten that there's a wager at stake?"
 The 'General of Banaras' responded with a sarcastic remark.
@@ -164,8 +164,8 @@ A small golden dice was also floating above their heads.
 "Actually, I can win even without collecting prophecies."
 <!>[You placed an additional bet on 'End of match before the first prophecy appears!']
 The constellations, with bitter smiles on their faces, turned to each other and said.
-<!>[You're in good spirits. How much did you bet? 1,000 D-coins.]
-<!>[Still, you seem like a good player. You must have bet around 10,000 D-coins.]
+<@>[You're in good spirits. How much did you bet? 1,000 D-coins.]
+<@>[Still, you seem like a good player. You must have bet around 10,000 D-coins.]
 Listening to their advice, I recalled the words of the 'Mass Production Manufacturer'.
 <&>「"Coins are truly fascinating, aren't they? They're just numbers, but depending on the number of coins, the constellations can mock someone, be jealous of someone, or even show their greed."」
 <@>[No, he might have bet as much as 100,000 D-Coins.]
