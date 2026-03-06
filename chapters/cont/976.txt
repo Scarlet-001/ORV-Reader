@@ -89,7 +89,7 @@ I smiled and added:
 I turned toward the Abyssal Black Flame Dragon. His eyes, radiating a lethal abyssal aura, were locked onto me. He was undeniably a Myth-grade being, but there was a hollow resonance to his story—as if the source was corrupted. Asmodeus spread his arms, a predatory grin on his face.
 <#>【I knew you wouldn't run. Your greed is your greatest flaw. Do you truly intend to challenge me?】
 Normally, I wouldn't dream of engaging Asmodeus directly. I glanced at Jung Heewon, still shielded by the 'Exposed Bush', and spoke.
-<!>[Yes. Let's finish this, Asmodeus.]
+<@>[Yes. Let's finish this, Asmodeus.]
 The power of [□□] surged. The world began to lose its color. Despite the lingering backlash, the Recorder’s authority allowed me to override the local probability.
 <&>「The forgotten constellation once again reveals its light in the night sky of the <Star Stream>.」
 The legends I had built began to manifest upon my body.
@@ -112,6 +112,6 @@ It wasn't just shock; it was something closer to pity.
 "What if I have?"
 <#>【Do you not know why Recorders never record themselves?】
 I paused. I didn't need [Lie Detection] to feel the weight of his words.
-<#>【Recorders must never [record] their own existence. No one who values their soul would dare. If you continue to use that power, you will eventually lose the very thing you are trying to save. You have broken the ultimate taboo...】
+<#>【Recorders must never [Record] their own existence. No one who values their soul would dare. If you continue to use that power, you will eventually lose the very thing you are trying to save. You have broken the ultimate taboo...】
 For the first time, Asmodeus was speaking a fundamental truth.
 <#>【In the end, you will be erased from the 'Final Records'.】
