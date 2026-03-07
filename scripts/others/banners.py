@@ -55,8 +55,6 @@ def get_chapter_banner(
         ]
 
         pick = random.choices(choices, weights=weights, k=1)[0]
-        print(pick)
-
         mapping = {
             "donate": DONATION_TEMPLATE,
             "discord": DISCORD_TEMPLATE,
