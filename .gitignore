@@ -1,3 +1,11 @@
+# Ignore all HTML files in the read directories
+website/stories/**/read/**
+
+# DO NOT ignore the templates
+!website/stories/orv/read/template.html
+!website/stories/side/read/template.html
+!website/stories/cont/read/template.html
+
 formatted
 temp
 .secrets
